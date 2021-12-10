@@ -1,11 +1,11 @@
 {
-    "name": "vscode-gnome-theme",
+    "name": "bio-dark-vscode-gnome-theme",
     "displayName": "GNOME theme",
     "description": "A GNOME color theme for VSCode",
     "version": "0.3.0",
-    "publisher": "rafaelmardojai",
-    "author": "Rafael Mardojai CM",
-    "license": "Unlicense",
+    "publisher": "outlaw-marine",
+    "author": "Tracey Ledbetter",
+    "license": "GPL-2.0",
     "icon": "icon.png",
     "galleryBanner": {
         "color": "#15539e",
@@ -27,12 +27,12 @@
         ]
     },
     "bugs": {
-        "url": "https://github.com/rafaelmardojai/vscode-gnome-theme/issues"
+        "url": "https://github.com/outlaw-marine/vscode-gnome-theme/issues"
     },
-    "homepage": "https://github.com/rafaelmardojai/vscode-gnome-theme/blob/master/README.md",
+    "homepage": "https://github.com/outlaw-marine/vscode-gnome-theme/blob/master/README.md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/rafaelmardojai/vscode-gnome-theme.git"
+        "url": "https://github.com/outlaw-marine/vscode-gnome-theme.git"
     },
     "keywords": [
         "Vscode",
